@@ -35,7 +35,7 @@ shoes.buy(100)
 ```
 ## Screenshot
 
-![Screenshot of Shoes Budget Tool](screenshot.png)
+![Screenshot of Shoes Budget Tool](shoeboxpic.png)
 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

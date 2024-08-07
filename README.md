@@ -33,6 +33,10 @@ shoes = Shoes("Sneakers", 50)
 # Check if you can buy the shoes with a given budget
 shoes.buy(100)
 ```
+## Screenshot
+
+![Screenshot of Shoes Budget Tool](screenshot.png)
+
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
